@@ -42,7 +42,7 @@ I graduated from Jagiellonian University in Law and University of Warsaw in Inte
   **After that time and after hundreds of hours of trial & error in programming, I know I am highly determinated to become Java Developer. I don't mind the price of it. It is only a matter of time.**
 <br><br>
 Ok, and what do I do to maintain a life balance? 😃<br>
- - I like sports (HIIT, gym), I do Yoga (relieves of stress, makes body & mind relaxed and healthy, _BREATHE IN, BREATHE OUT_).<br>
+ - I like sports (HIIT, gym 🦾), I do Yoga (relieves of stress, makes body & mind relaxed and healthy, _BREATHE IN, BREATHE OUT_).<br>
  - I meditate 2 hours daily, morning and evening (Vipassana meditation). <br> 
  - I **DO NOT** waste my time, it is too precious for me, so I have more time to do things that are important to me.<br>
  - I love music 🎵. I played oboe, sax, violin and piano, I played in a band (composing music to old movies) but I couldn't commit enough time for it, so I had to drop.

@@ -1,9 +1,8 @@
 ### Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Igor and I'm glad you came to visit my profile!
 
 
-- 🔭 I’m currently working on [Bugtracker](https://github.com/bubahaze/bugtracker)
-- 🌱 I’m currently learning **Mockito**
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently working on [Bugtracker](https://github.com/bubahaze/bugtracker) 🐛
+- 🌱 I’m currently learning **Mockito** :cocktail:
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/igor-poludnikiewicz)
 
 <h3 align="left">Languages and Tools:</h3>

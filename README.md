@@ -32,7 +32,7 @@ I graduated from Jagiellonian University in Law and University of Warsaw in Inte
   - it makes my dreams come true! 
   <br><br>
   I went abroad to work physically in Netherlands and Switzerland (often 12-13 hours daily) to earn enough money to let myself concentrate whole days on gaining knowledge and abilities to code. I really esteem that experience of working as a blue collar. I know how hard earning money can be. I got to know people from outside of my "bubble". That has broadened my horizons.<br>
-  **After that time, and after thousands of hours of trial & error in programming, I know I am highly determinated to become Java Developer. I don't mind the price of it. It is only the matter of time.**
+  **After that time and after thousands of hours of trial & error in programming, I know I am highly determinated to become Java Developer. I don't mind the price of it. It is only a matter of time.**
 <br><br>
 Ok, and what I do to maintain a life balance? 😃<br>
  - I like sports (HIIT, gym), I do Yoga (relieves of stress, makes body & mind relaxed and healthy, _BREATHE IN, BREATHE OUT_).<br>

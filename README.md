@@ -34,8 +34,10 @@ I graduated from Jagiellonian University in Law and University of Warsaw in Inte
   I went abroad to work physically in Netherlands and Switzerland (often 12-13 hours daily) to earn enough money to let myself concentrate whole days on gaining knowledge and abilities to code. I really esteem that experience of working as a blue collar. I know how hard earning money can be. I got to know people from outside of my "bubble". That has broadened my horizons.<br>
   After that time, and after thousands of hours of trial & error in programming, I know I am highly determinated to become Java Developer. I don't mind the price of it. It is only the matter of time.
 <br><br>
-Ok, and what I do to maintain a life balance? 😃 I like sports (HIIT, gym), I do Yoga (relieves of stress, makes body & mind relaxed and healthy, BREATHE IN, BREATHE OUT).
-  I meditate 2 hours daily in the morning and evening (Vipassana meditation). I DO NOT waste my time, it is too precious for me, so I have more time to do things that are important to me.<br>
+Ok, and what I do to maintain a life balance? 😃<br>
+  I like sports (HIIT, gym), I do Yoga (relieves of stress, makes body & mind relaxed and healthy, _BREATHE IN, BREATHE OUT_).<br>
+  I meditate 2 hours daily in the morning and evening (Vipassana meditation). <br> 
+  I **DO NOT** waste my time, it is too precious for me, so I have more time to do things that are important to me.<br>
   I love music 🎵. I played oboe, sax, violin and piano, I played in a band (composing music to old movies) but I couldn't commit enough time for it, so I had to drop.
   I'm polish rap music freak, I could talk hours about it 🥰<br>
   I traveled a lot (mostly Asia. I spend a wonderful time studying abroad in Kerala, India, but I think my strongest experience was visiting North Korea 🇰🇵.

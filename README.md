@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Bugtracker](https://github.com/bubahaze/bugtracker) 🐛
 - 🌱 I’m currently learning **Mockito** :cocktail:
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/igor-poludnikiewicz)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/igor-poludnikiewicz) (we can also cross some swords on [Codewars](https://www.codewars.com/users/bubahaze))
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -15,10 +15,5 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-  
- 
    </p>
 
-:phone: **Let's get in touch** :pager:
-<p align="left">
-<a href="https://www.linkedin.com/in/igor-poludnikiewicz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="poludnikiewicz" height="30" width="40" /></a>

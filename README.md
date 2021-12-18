@@ -40,6 +40,6 @@ Ok, and what I do to maintain a life balance? 😃<br>
  - I **DO NOT** waste my time, it is too precious for me, so I have more time to do things that are important to me.<br>
  - I love music 🎵. I played oboe, sax, violin and piano, I played in a band (composing music to old movies) but I couldn't commit enough time for it, so I had to drop.
  - I'm polish rap music freak, I could talk hours about it 🥰<br>
- - I traveled a lot (mostly Asia. I spend a wonderful time studying abroad in Kerala, India, but I think my strongest experience was visiting North Korea 🇰🇵.
+ - I have traveled quite a lot (mostly Asia. I spend a wonderful time studying abroad in Kerala, India, but I think my strongest experience was visiting North Korea 🇰🇵.
 </details> 
 

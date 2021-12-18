@@ -42,6 +42,6 @@ Ok, and what I do to maintain a life balance? 😃<br>
  - I'm polish rap music freak, I could talk hours about it 🥰<br>
  - I have traveled quite a lot (mostly Asia. I spend a wonderful time studying abroad in Kerala, India, but I think my strongest experience was visiting North Korea 🇰🇵.
   <br><br>
-  So, if you are already here, **I really appreciate it**. You gave me more than one second of your life to get to know me. Regardless of whether we will ever meet each other, I wish you a good day and be happy. Life is short and precious.
+  So, if you are already here, **I really appreciate it**. You gave me more than one second of your life to get to know me. And time is the scarcest resource nowadays. Regardless of whether we will ever meet each other, I wish you a good day and be happy. :fist: :pray: 💓
 </details> 
 

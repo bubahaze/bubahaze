@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Bugtracker](https://github.com/bubahaze/bugtracker) 🐛
 - 🌱 I’m currently learning **Mockito** :cocktail:
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/igor-poludnikiewicz) (we can also cross some swords on [Codewars](https://www.codewars.com/users/bubahaze))
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/igor-poludnikiewicz) (we can also ⚔️ on [Codewars](https://www.codewars.com/users/bubahaze))
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">

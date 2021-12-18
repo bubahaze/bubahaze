@@ -33,6 +33,7 @@ I graduated from Jagiellonian University in Law and University of Warsaw in Inte
   - it's a profession of geeks and passionates. It needs so much commitment after all, there's no way someone will become a developer by accident
   - it is not easy. I believe only hard and demanding tasks can give full satisfaction
   - there is so much to learn, that it will never end! This way I can keep my brain stimulated and stretched the whole life. What's the fun of doing something you learned x years ago and it hardly ever changes?
+  - this profession connects the people all over the world. Place of living is not so important.
   - it makes my dreams come true! 
   <br><br>
   I went abroad to work physically in Netherlands and Switzerland (often 12-13 hours daily) to earn enough money to let myself concentrate whole days on gaining knowledge and abilities to code. I really esteem that experience of working as a blue collar. I know how hard earning money can be. I got to know people from outside of my "bubble". That has broadened my horizons.<br>

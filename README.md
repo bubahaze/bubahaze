@@ -18,7 +18,7 @@
    </p><br><br>
    
    <details>
-  <summary><h3><b>✨&nbsp;&nbsp;About&nbsp;Me</b></h3></summary>
+  <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
   <br/>
 
 I am an aspiring Java Backend Developer with working experience in technology & law related fields.

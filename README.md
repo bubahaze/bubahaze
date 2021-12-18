@@ -24,7 +24,7 @@
 I am an aspiring Java Backend Developer with working experience in technology & law related fields.
 
 ### My Story
-I graduated from Jagiellonian University in Law and University of Warsaw in International relations (East Asia specialisation) with highest grades. I've also worked at some prominent places (Ministry of Foreign Affairs, top law firm). Long story short, It was interesting, especially Law is highly ambitious and immersive occupation, however I realised that doing this my whole life would made me a frustrated person. I wanted to change the world for better (I know it can sound cheesy but it's true), at least a little bit. What I did not know that time- what really changes the world is IT. And so as I value the gift of life too much, to spend it on doing something I do not love,  I started to learn coding 💝. 
+I graduated from Jagiellonian University in Law and University of Warsaw in International relations (East Asia specialisation) with highest grades. I've also worked at some prominent places (Ministry of Foreign Affairs, top law firm). Long story short, It was interesting, especially Law is highly ambitious and immersive occupation, however I realised that doing this my whole life would made me a frustrated person. I wanted to change the world for better (I know it can sound cheesy but it's true), at least a little bit. What I did not know that time- what really changes the world is IT. And so as I value the gift of life too much, to spend it on doing something I do not love,  I started to learn coding 💝. <br>
   What I love about coding:
   - logic and order - a good code is a clean code, neatly organised and transparent. The real life is not so logic and organised as I would like to be 😆
   - possibilities! I believe every **hard working** man/woman with a computer and internet access can learn to code and finally (after some wipeout 😄) cand land a job
@@ -41,5 +41,7 @@ Ok, and what I do to maintain a life balance? 😃<br>
  - I love music 🎵. I played oboe, sax, violin and piano, I played in a band (composing music to old movies) but I couldn't commit enough time for it, so I had to drop.
  - I'm polish rap music freak, I could talk hours about it 🥰<br>
  - I have traveled quite a lot (mostly Asia. I spend a wonderful time studying abroad in Kerala, India, but I think my strongest experience was visiting North Korea 🇰🇵.
+  <br><br>
+  So, if you are already here, **I really appreciate it**. You gave me more than one second of your life to get to know me. Regardless of whether we will ever meet each other, I wish you a good day and be happy. Life is short and precious.
 </details> 
 

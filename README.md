@@ -1,3 +1,5 @@
+<h2 align="center">_When I'm sad, I'm sad. But when I'm coding, oh God I'm coding_</h2>
+
 ### Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Igor and I'm glad you came to visit my profile!
 
 
@@ -28,10 +30,10 @@ I am an aspiring Java Backend Developer with working experience in technology & 
 ### My Story
 I graduated from Jagiellonian University in Law and University of Warsaw in International relations (East Asia specialisation) with highest grades. I've also worked at some prominent places (Ministry of Foreign Affairs, top law firm). Long story short, It was interesting, especially Law is highly ambitious and immersive occupation, however I realised that doing this my whole life would made me a frustrated person. I wanted to change the world for better (I know it can sound cheesy but it's true), at least a little bit. What I did not know that time- what really changes the world is IT. And so as I value the gift of life too much, to spend it on doing something I do not love,  I started to learn coding 💝. <br>
   What I love about coding:
-  - logic and order - a good code is a clean code, neatly organised and transparent. The real life is not so logic and organised as I would like to be 😆
-  - possibilities! I believe every **hard working** man/woman with a computer and internet access can learn to code and finally (after some wipeout 😄) cand land a job
-  - it's a profession of geeks and passionates. It needs so much commitment after all, there's no way someone will become a developer by accident
-  - it is not easy. I believe only hard and demanding tasks can give full satisfaction
+  - logic and order - a good code is a clean code, neatly organised and transparent. The real life is not so logic and organised as I would like to be 😆.
+  - possibilities! I believe every **hard working** man/woman with a computer and internet access can learn to code and finally (after some wipeout 😄) cand land a job.
+  - it's a profession of geeks and passionates. It needs so much commitment after all, there's no way someone will become a developer by accident.
+  - it is not easy. I believe only hard and demanding tasks can give full satisfaction.
   - there is so much to learn, that it will never end! This way I can keep my brain stimulated and stretched the whole life. What's the fun of doing something you learned x years ago and it hardly ever changes?
   - this profession connects the people all over the world. Place of living is not so important.
   - it makes my dreams come true! 
@@ -41,7 +43,7 @@ I graduated from Jagiellonian University in Law and University of Warsaw in Inte
 <br><br>
 Ok, and what I do to maintain a life balance? 😃<br>
  - I like sports (HIIT, gym), I do Yoga (relieves of stress, makes body & mind relaxed and healthy, _BREATHE IN, BREATHE OUT_).<br>
- - I meditate 2 hours daily in the morning and evening (Vipassana meditation). <br> 
+ - I meditate 2 hours daily, morning and evening (Vipassana meditation). <br> 
  - I **DO NOT** waste my time, it is too precious for me, so I have more time to do things that are important to me.<br>
  - I love music 🎵. I played oboe, sax, violin and piano, I played in a band (composing music to old movies) but I couldn't commit enough time for it, so I had to drop.
  - I'm polish rap music freak, I could talk hours about it 🥰<br>

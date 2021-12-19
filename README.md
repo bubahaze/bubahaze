@@ -1,6 +1,6 @@
 <h2 align="center"><i>When I'm sad, I'm sad. But when I'm coding, oh God I'm coding</i></h2>
 
-### Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Igor (and I'm almost never sad). Glad you came to visit my profile!
+### Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Igor (and I'm almost never sad 😉). Glad you came to visit my profile!
 
 
 - 🔭 I’m currently working on [Bugtracker](https://github.com/bubahaze/bugtracker) 🐛

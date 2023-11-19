@@ -2,12 +2,7 @@
 
 ### Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Igor (and I'm almost never sad 😉). Glad you came to visit my profile!
 
-
-- 🔭 I’m currently working on [Bugtracker](https://github.com/bubahaze/bugtracker) 🐛
-- 🌱 I’m currently learning **Mockito** :cocktail:
-- 📘 I'm currently reading Robert C. Martin's **Clean Code**
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/igor-poludnikiewicz), <a href="mailto:igor.poludnikiewicz@gmail.com">Send Email</a>
--  (we can also ⚔️ on [Codewars](https://www.codewars.com/users/bubahaze))
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -24,8 +19,6 @@
    <details>
   <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
   <br/>
-
-I am an aspiring Java Backend Developer with working experience in technology & law related fields.
 
 ### My Story
 I graduated from Jagiellonian University in Law and University of Warsaw in International relations (East Asia specialisation) with highest grades. I've also worked at some prominent places (Ministry of Foreign Affairs, top law firm). Long story short, It was interesting, especially Law is highly ambitious and immersive occupation, however I realised that doing this my whole life would made me a frustrated person. I wanted to change the world for better (I know it can sound cheesy but it's true), at least a little bit. What I did not know that time- what really changes the world is IT. And so as I value the gift of life too much, to spend it on doing something I do not love,  I started to learn coding 💝. <br>
